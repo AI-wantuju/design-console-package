@@ -9,7 +9,8 @@ Windows 桌面版 **Design Console**（AI 设计工作台）的官方下载仓�
 | `DesignConsole-Setup-<版本>.exe` | 安装版，装到系统里，开始菜单可见 |
 | `DesignConsole-Portable-<版本>.exe` | 免安装版，双击即用，数据存在程序目录旁的 `data` 文件夹 |
 
-- 最新发布：<https://github.com/AI-wantuju/design-console-package/releases/latest>
+- 最新发布（GitHub 镜像）：<https://github.com/AI-wantuju/design-console-package/releases/latest>
+- 最新发布（Gitee 镜像，国内访问较快）：<https://gitee.com/wan-tu-ju/design-console-package/releases/latest>
 - 官网（含 SHA256 校验值）：<https://www.tujuyun.com/#install>
 
 ## 要求
